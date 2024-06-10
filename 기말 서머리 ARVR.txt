@@ -1,0 +1,45 @@
+6장
+6.10 씬 전환하기
+1. 유니티엔진.sceneManagement
+2. 빌드세팅 오류수정법 알기
+
+7장
+7.3 산맥
+1. raise 어쩌구 체크 
+2. 줄일때 쉬프트 누르고 드래그
+3. 기즈모 방향 xyz 빈칸 채우기
+
+7.4 밤송이
+1. rigidbody 설정
+2. sphere colider 쓰기
+3. onColisionEnter 함수 쓸줄알기 노란거
+4. 파티클 시스템 쓰는거 알기 3번이랑 같이 통째로
+
+8장 제일중요
+8.3
+1. 광원 위치 조절하는법 알기 Rotation 90 으로 하는거
+2. 32페이지 float x = Math. 그거 3줄 알기
+
+8.5
+1. 효과음 this.aud 그거 위에것도
+2. this.aud.playoneshot 어쩌구 
+
+8.6
+1. 랜덤하는거 노란거 다 쓰기 random 어쩌구
+
+8.7
+1. 소수자리 1째자리까지 표현하려면 어찌해야하는가 this.time.tostring(f1)
+
+9장 
+1. ARFoundation 에서 제공된다 괄호
+2. 카메라 방향 전환하기 world -> user
+
+10장
+1. creat >XR> Reference Image Library 추가하는거
+2. Add Image 후 texture 폴더 나비 끌고오기 (레퍼 인스펙터 창에 사진을 등록하려고한다~ 할때?)
+3. AR Session Origin 에서 컴포넌트 중에 AR Tracked Image Manager 추가하기 
+4. 세션오리진의 트랙이미지 매니저에서 프리팹창에 버터플라이를 끌어다 연결함 
+
+
+
+
